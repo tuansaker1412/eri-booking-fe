@@ -4,7 +4,7 @@
 <template>
   <main class="bg-gray-50 dark:bg-gray-900">
     <div class="flex flex-col items-center justify-center px-6 pt-8 mx-auto md:h-screen pt:mt-0 dark:bg-gray-900">
-      <a href="{{< ref '/' >}}" class="flex items-center justify-center mb-8 text-2xl font-semibold lg:mb-10 dark:text-white">
+      <a href="/" class="flex items-center justify-center mb-8 text-2xl font-semibold lg:mb-10 dark:text-white">
         <img src="../assets/images/logo.svg" class="mr-4 h-11" alt="FlowBite Logo">
         <span>Eri Booking</span>
       </a>
